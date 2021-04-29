@@ -17,6 +17,7 @@
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Fernandez-951&repo=Heard-Immunity&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Daniel-Fernandez-951&repo=Mining-Stats&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=human-rights-first-asylum-ds-a&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Daniel-Fernandez-951" id="counter">
