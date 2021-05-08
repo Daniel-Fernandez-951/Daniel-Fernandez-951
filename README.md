@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cython
 - 💬 Ask me anything about Data Science, Machining or my many hobbies.
 - 📫 How to reach me: dan@danielf.com
-- 😄 My website: https://danief.com
+- 😄 My website: https://danielf.com
 - ⚡ Fun fact: I love designing and making tools in both metal and code.
 
 
