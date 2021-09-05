@@ -1,8 +1,8 @@
 <h1>Welcome!</h1>
 
 
-- 🔭 I’m currently working on Human Rights First | Asylum
-- 🌱 I’m currently learning Cython
+- 🔭 I’m currently working on Nauclerus Logbook API | Private and Commercial pilots of helicopter & fixed-wing aircraft
+- 🌱 I’m currently learning Cython and PySide6
 - 💬 Ask me anything about Data Science, Machining or my many hobbies.
 - 📫 How to reach me: dan@danielf.com
 - 😄 My website: https://danielf.com
