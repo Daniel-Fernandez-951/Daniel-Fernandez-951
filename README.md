@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Nauclerus Logbook API | Private and Commercial pilots of helicopter & fixed-wing aircraft
-- 🌱 I’m currently studying C++ | Docker | FastAPI + Pydantic
+- 🌱 I’m currently studying  Docker | Stratum SDN
 - 💬 Ask me anything about Data Science, Machining or my many hobbies.
 - 📫 How to reach me: dan@danielf.com
 - 😄 My website: https://danielf.com
