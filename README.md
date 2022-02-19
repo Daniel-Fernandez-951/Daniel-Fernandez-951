@@ -1,8 +1,9 @@
 <h1>Welcome!</h1>
 
 
-- 🔭 I’m currently working on Nauclerus Logbook API | Backend logbook for private and commercial pilots (fixed-wing and helicopter).
-- 🌱 I’m currently studying  Docker | Stratum SDN
+- 🔭 I’m working on Nauclerus Logbook API | Backend logbook for private and commercial pilots (fixed-wing and helicopter).
+- 🔭 Also working on an unnamed project | Link shortner that forwards Open Graph Protocol metadata to display content and gather click data. 
+- 🌱 I’m currently studying  Docker | Cloud Functions
 - 💬 Ask me anything about Data Science, Machining or my many hobbies.
 - 📫 How to reach me: dan@danielf.com
 - 😄 My website: https://danielf.com
